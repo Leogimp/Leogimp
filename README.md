@@ -29,7 +29,7 @@
         <br />
         <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-flurren.svg?v=1" height="26" alt="Flurren" />
         <p>Agentic AI mesh with real company relation approach</p>
-        <a href="https://www.linkedin.com/company/flurren-agent"><img src="https://img.shields.io/badge/VISIT%20%E2%86%92-ffffff?style=for-the-badge" alt="Visit Flurren" /></a>
+        <a href="https://flurren.com"><img src="https://img.shields.io/badge/VISIT%20%E2%86%92-ffffff?style=for-the-badge" alt="Visit Flurren" /></a>
         <br />
       </div>
     </td>
