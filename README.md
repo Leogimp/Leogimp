@@ -8,6 +8,11 @@
  <ul> <li>💼 Open positions at Flurren: <a href="https://www.linkedin.com/company/flurren-agent/jobs">LinkedIn</a></li></ul>
 </p>
 
+<h3>GitHub Stats</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/contributions.svg" alt="Contribution graph" />
+</p>
+
 <hr />
 
 <ul>
@@ -76,11 +81,6 @@
   <img src="https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Omarchy-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</p>
-
-<h3>GitHub Stats</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/contributions.svg" alt="Contribution graph" />
 </p>
 
 <hr/>
