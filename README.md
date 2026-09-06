@@ -5,8 +5,8 @@
 
   <br /><br />
 
-  <!-- 2. График активности (Белый на тёмном фоне) -->
-  <img src="https://ghchart.rshah.org/ffffff/Leogimp" width="100%" alt="Contribution Graph" />
+  <!-- 2. График активности (Тёмная тема) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leogimp&theme=github-dark" width="100%" alt="Contribution Graph" />
 
   <br /><br />
 
