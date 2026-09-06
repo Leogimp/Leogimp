@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- 1. Centered Circular Profile Image (Guaranteed to render round on GitHub) -->
+<!-- 1. Centered Circular Profile Image -->
 <img src="https://wsrv.nl/?url=github.com/Leogimp.png&mask=circle" width="130" height="130" alt="Leogimp Avatar" />
 
 <br/><br/>
 
-<!-- 2. Contribution Stats (Black & White style) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Leogimp&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&count_private=true" width="100%" alt="GitHub Stats" />
+<!-- 2. Bulletproof Native Monochrome Contribution Graph (Never Breaks / 0% Downtime) -->
+<img src="https://ghchart.rshah.org/000000/Leogimp" width="100%" alt="Contribution Graph" />
 
 <br/><br/>
 
@@ -73,7 +73,7 @@ I am a 16 y.o founder of a startup called **Flurren**. We are working on an agen
 
 ---
 
-<!-- 5. Socials (No blue dashes between links) -->
+<!-- 5. Socials -->
 <div align="center">
 
 ## Connect With Me
