@@ -1,5 +1,5 @@
 <!-- 3. Описание профиля -->
-**Leo Gimpel**
+<h1>Leo Gimpel</h1>
 
 <p>
   I am a 16 y.o founder of a startup called <b>Flurren</b>. We are working on an agentic AI mesh integrable into majority of existing CLI tools. We are in the middle stages of development, and we are still searching for talented people to join our team.
