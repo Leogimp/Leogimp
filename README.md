@@ -5,7 +5,7 @@
   I am a 16 y.o founder of a startup named <b><a href="https://github.com/Leogimp">Flurren</a></li></b>. We are working on an agentic AI mesh integrable into majority of existing CLI tools. We are in the middle stages of development, and we are still searching for talented people to <b>join our team</b>. We constantly are hosting events for all team members.
 
 <h3>Interested?</h3>
- <ul> <li>💼 Open positions at Flurren: <a href="https://www.linkedin.com/company/flurren-agent/jobs">LinkedIn</a></li></ul>ul>
+ <ul> <li>💼 Open positions at Flurren: <a href="https://www.linkedin.com/company/flurren-agent/jobs">LinkedIn</a></li></ul>
 </p>
 
 <hr />
