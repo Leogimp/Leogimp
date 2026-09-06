@@ -8,7 +8,7 @@
  <ul> <li>💼 Open positions at Flurren: <a href="https://www.linkedin.com/company/flurren-agent/jobs">LinkedIn</a></li></ul>
 </p>
 
-<h3>GitHub Stats</h3>
+<hr />
 <p>
   <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/contributions.svg" alt="Contribution graph" />
 </p>
