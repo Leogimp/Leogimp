@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="middle">
+    <td width="50%" valign="top">
       <div align="center">
         <br />
         <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-flurren.svg?v=1" height="26" alt="Flurren" />
@@ -33,7 +33,7 @@
         <br />
       </div>
     </td>
-    <td width="50%" valign="middle">
+    <td width="50%" valign="top">
       <div align="center">
         <br />
         <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-yoana.svg?v=1" height="26" alt="Yoana" />
