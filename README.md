@@ -1,13 +1,14 @@
 <!-- 3. Описание профиля -->
-<h1><b>Leo Gimpel</b>b</h1>
+<h1><b>Leo Gimpel</b></h1>
 
 <p>
-  I am a 16 y.o founder of a startup called <b>Flurren</b>. We are working on an agentic AI mesh integrable into majority of existing CLI tools. We are in the middle stages of development, and we are still searching for talented people to join our team.
+  I am a 16 y.o founder of a startup called <b><a href="https://github.com/Leogimp">Flurren</a></li></b>. We are working on an agentic AI mesh integrable into majority of existing CLI tools. We are in the middle stages of development, and we are still searching for talented people to <b>join our team</b>.
+
+  - Open possitions at Flurren: <a href="https://www.linkedin.com/company/flurren-agent/jobs">LinkedIn</a></li> 
 </p>
 
 <ul>
   <li>🌐 <b>Location:</b> Tel-Aviv</li>
-  <li>🚀 <b>Founder:</b> <a href="https://github.com/Leogimp">Flurren</a></li>
   <li>🧠 <b>Learning:</b> LangChain</li>
   <li>🤝 <b>Collaborating:</b> Open to collaborate on any interesting project that I can add value to</li>
 </ul>
