@@ -5,8 +5,8 @@
 
   <br /><br />
 
-  <!-- 2. График активности (Монохром) -->
-  <img src="https://ghchart.rshah.org/000000/Leogimp#gh-dark-mode-only" width="100%" style="filter: invert(1) hue-rotate(180deg);" alt="Contribution Graph" />
+  <!-- 2. График активности (Белый на тёмном фоне) -->
+  <img src="https://ghchart.rshah.org/ffffff/Leogimp" width="100%" alt="Contribution Graph" />
 
   <br /><br />
 
