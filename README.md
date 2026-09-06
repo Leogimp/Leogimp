@@ -1,6 +1,6 @@
 <!-- 3. Описание профиля -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/name-logo.svg" height="72" alt="Leo Gimpel" />
+  <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/name-logo.svg?v=2" height="72" alt="Leo Gimpel" />
 </div>
 
 <hr />
