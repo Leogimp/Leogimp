@@ -13,7 +13,7 @@ Open possitions at Flurren: <a href="https://www.linkedin.com/company/flurren-ag
 <ul>
   <li>🌐 <b>Location:</b> Tel-Aviv</li>
   <li>🧠 <b>Learning:</b> LangChain</li>
-  <li>🤝 <b>Collaborating:</b> Open to collaborate on any interesting project that I can add value to</li>
+  <li>🤝 <b>Collaborating:</b> Open to collaborate on any interesting project that I can bring value to</li>
 </ul>
 
 <hr />
