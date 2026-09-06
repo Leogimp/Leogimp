@@ -17,7 +17,7 @@
 </p>
 
 <h3>Interested?</h3>
-<ul align="center"> <li>💼 Open positions at Flurren: <a href="https://www.linkedin.com/company/flurren-agent/jobs">LinkedIn</a></li></ul>
+<ul align="center"> 💼 Open positions at Flurren: <a href="https://www.linkedin.com/company/flurren-agent/jobs">LinkedIn</a></ul>
 </div>
 
 <hr />
