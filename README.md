@@ -22,7 +22,7 @@
 
 <div align="center">
   <br />
-  <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/heading-projects.svg?v=1" height="33" alt="Projects" />
+  <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/heading-projects.svg?v=1" height="44" alt="Projects" />
 </div>
 <p>&nbsp;</p>
 
@@ -61,7 +61,7 @@
 
 <!-- 4. Технический стек -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/heading-tech-stack.svg?v=1" height="33" alt="Tech Stack" />
+<img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/heading-tech-stack.svg?v=1" height="44" alt="Tech Stack" />
 
 <h3>Languages</h3>
 <p>
