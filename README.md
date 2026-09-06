@@ -14,13 +14,15 @@
   I am a 16 y.o founder of a startup named <b><a href="https://github.com/Leogimp">Flurren</a></li></b>. We are working on an agentic AI mesh integrable into majority of existing CLI tools. We are in the middle stages of development, and we are constantly in search for talented people to <b>join our team</b>. We are hosting events for all team members where we combine productivity with team enrichment.
 </p>
 
-<h3>Interested?</h3>
+<img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/heading-interested.svg?v=1" height="27" alt="Interested?" />
 <ul align="center"> ▸ Open positions at Flurren: <a href="https://www.linkedin.com/company/flurren-agent/jobs">LinkedIn</a></ul>
 </div>
 
 <hr />
 
-<h2>▤ Projects</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/heading-projects.svg?v=1" height="33" alt="Projects" />
+</div>
 
 <table align="center">
   <tr>
@@ -57,7 +59,7 @@
 
 <!-- 4. Технический стек -->
 <div align="center">
-<h2>⚙︎ Tech Stack</h2>
+<img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/heading-tech-stack.svg?v=1" height="33" alt="Tech Stack" />
 
 <h3>Languages</h3>
 <p>
@@ -120,7 +122,7 @@
 
 <hr/>
 <div align="center">
-  <h3>Connect With Me</h3>
+  <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/heading-connect.svg?v=1" height="27" alt="Connect With Me" />
 
   <p>
     <a href="https://linkedin.com/in/leogimp"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQxNiAzMkgzMS45QzE0LjMgMzIgMCA0Ni41IDAgNjQuM3YzODMuNEMwIDQ2NS41IDE0LjMgNDgwIDMxLjkgNDgwSDQxNmMxNy42IDAgMzItMTQuNSAzMi0zMi4zVjY0LjNjMC0xNy44LTE0LjQtMzIuMy0zMi0zMi4zek0xMzUuNCA0MTZINjlWMjAyLjJoNjYuNVY0MTZ6bS0zMy4yLTI0M2MtMjEuMyAwLTM4LjUtMTcuMy0zOC41LTM4LjVTODAuOSA5NiAxMDIuMiA5NmMyMS4yIDAgMzguNSAxNy4zIDM4LjUgMzguNSAwIDIxLjMtMTcuMiAzOC41LTM4LjUgMzguNXptMjgyLjEgMjQzaC02Ni40VjMxMmMwLTI0LjgtLjUtNTYuNy0zNC41LTU2LjctMzQuNiAwLTM5LjkgMjctMzkuOSA1NC45VjQxNmgtNjYuNFYyMDIuMmg2My43djI5LjJoLjljOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjlWNDE2eiIvPjwvc3ZnPg==&logoColor=white" /></a>
