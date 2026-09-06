@@ -1,4 +1,4 @@
-<!-- 3. Описание профиля -->
+﻿<!-- 3. Описание профиля -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/name-logo.svg?v=2" height="72" alt="Leo Gimpel" />
 </div>
@@ -17,22 +17,22 @@
 </p>
 
 <h3>Interested?</h3>
-<ul align="center"> 💼 Open positions at Flurren: <a href="https://www.linkedin.com/company/flurren-agent/jobs">LinkedIn</a></ul>
+<ul align="center"> ▸ Open positions at Flurren: <a href="https://www.linkedin.com/company/flurren-agent/jobs">LinkedIn</a></ul>
 </div>
 
 <hr />
 
 <ul>
-  <li>🌐 <b>Location:</b> Tel-Aviv</li>
-  <li>🧠 <b>Learning:</b> LangChain</li>
-  <li>🤝 <b>Collaborating:</b> Open to collaborate on any interesting project that I can bring value to</li>
+  <li>◎ <b>Location:</b> Tel-Aviv</li>
+  <li>◆ <b>Learning:</b> LangChain</li>
+  <li>✦ <b>Collaborating:</b> Open to collaborate on any interesting project that I can bring value to</li>
 </ul>
 
 <hr />
 
 <!-- 4. Технический стек -->
 <div align="center">
-<h2>🛠 Tech Stack</h2>
+<h2>⚙︎ Tech Stack</h2>
 
 <h3>Languages</h3>
 <p>
