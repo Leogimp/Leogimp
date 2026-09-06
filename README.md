@@ -66,7 +66,7 @@
 
 <h3>Operating Systems</h3>
 <p>
-  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMjYgMS42MzdsLTY3IDkuODM0djQ5LjgzMWw2Ny0uNTM0ek0xLjY0NyA2Ni43MDlsLjAwMyA0Mi40MDQgNTAuNzkxIDYuOTgzLS4wNC00OS4wNTd6bTU2LjgyLjY4bC4wOTQgNDkuNDY1IDY3LjM3NiA5LjUwOS4wMTYtNTguODYzek0xLjYxIDE5LjI5N2wuMDQ3IDQyLjM4MyA1MC43OTEtLjI4OS0uMDIzLTQ5LjAxNnoiLz48L3N2Zz4=&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu_Server-000000?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
