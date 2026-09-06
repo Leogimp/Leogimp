@@ -20,6 +20,45 @@
 
 <hr />
 
+<h2>▤ Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-flurren.svg?v=1" height="26" alt="Flurren" />
+        <p>Agentic AI mesh that plugs into the CLI tools you already use.</p>
+        <a href="https://www.linkedin.com/company/flurren-agent"><img src="https://img.shields.io/badge/Visit%20%E2%86%92-000000?style=for-the-badge" alt="Visit Flurren" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-project-two.svg?v=1" height="26" alt="Project Two" />
+        <p>One-sentence description of the project goes here.</p>
+        <a href="#"><img src="https://img.shields.io/badge/Visit%20%E2%86%92-000000?style=for-the-badge" alt="Visit Project Two" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-project-three.svg?v=1" height="26" alt="Project Three" />
+        <p>One-sentence description of the project goes here.</p>
+        <a href="#"><img src="https://img.shields.io/badge/Visit%20%E2%86%92-000000?style=for-the-badge" alt="Visit Project Three" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-project-four.svg?v=1" height="26" alt="Project Four" />
+        <p>One-sentence description of the project goes here.</p>
+        <a href="#"><img src="https://img.shields.io/badge/Visit%20%E2%86%92-000000?style=for-the-badge" alt="Visit Project Four" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<hr />
+
 <ul>
   <li>◎ <b>Location:</b> Tel-Aviv</li>
   <li>◆ <b>Learning:</b> LangChain</li>
