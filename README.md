@@ -3,8 +3,6 @@
   <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/name-logo.svg?v=2" height="110" alt="Leo Gimpel" />
 </div>
 
-<hr />
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/contributions.svg" alt="Contribution graph" />
 </div>
@@ -27,8 +25,6 @@
   <li>◆ <b>Learning:</b> LangChain</li>
   <li>✦ <b>Collaborating:</b> Open to collaborate on any interesting project that I can bring value to</li>
 </ul>
-
-<hr />
 
 <!-- 4. Технический стек -->
 <div align="center">
