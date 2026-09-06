@@ -22,28 +22,7 @@
 
 <h2>▤ Projects</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <br />
-        <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-flurren.svg?v=1" height="26" alt="Flurren" />
-        <p>Agentic AI mesh with real company relation approach</p>
-        <a href="https://www.linkedin.com/company/flurren-agent"><img src="https://img.shields.io/badge/VISIT%20%E2%86%92-ffffff?style=for-the-badge" alt="Visit Flurren" /></a>
-        <br />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <br />
-        <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-yoana.svg?v=1" height="26" alt="Yoana" />
-        <p>E-commerce website for a farm — fresh produce online.</p>
-        <a href="https://meshek-yoana.com"><img src="https://img.shields.io/badge/VISIT%20%E2%86%92-ffffff?style=for-the-badge" alt="Visit Yoana" /></a>
-        <br />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center"><a href="https://www.linkedin.com/company/flurren-agent"><img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/card-flurren.svg?v=1" width="49.5%" alt="Flurren — Agentic AI mesh that plugs into the CLI tools you already use" /></a><a href="https://meshek-yoana.com"><img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/card-yoana.svg?v=1" width="49.5%" alt="Yoana — E-commerce website for a farm, fresh produce online" /></a></div>
 
 <hr />
 
