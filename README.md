@@ -33,25 +33,9 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-project-two.svg?v=1" height="26" alt="Project Two" />
-        <p>One-sentence description of the project goes here.</p>
-        <a href="#"><img src="https://img.shields.io/badge/Visit%20%E2%86%92-000000?style=for-the-badge" alt="Visit Project Two" /></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-project-three.svg?v=1" height="26" alt="Project Three" />
-        <p>One-sentence description of the project goes here.</p>
-        <a href="#"><img src="https://img.shields.io/badge/Visit%20%E2%86%92-000000?style=for-the-badge" alt="Visit Project Three" /></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-project-four.svg?v=1" height="26" alt="Project Four" />
-        <p>One-sentence description of the project goes here.</p>
-        <a href="#"><img src="https://img.shields.io/badge/Visit%20%E2%86%92-000000?style=for-the-badge" alt="Visit Project Four" /></a>
+        <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-yoana.svg?v=1" height="26" alt="Yoana" />
+        <p>An e-commerce website for a farm, built for browsing and ordering fresh produce online.</p>
+        <a href="https://meshek-yoana.com"><img src="https://img.shields.io/badge/Visit%20%E2%86%92-000000?style=for-the-badge" alt="Visit Yoana" /></a>
       </div>
     </td>
   </tr>

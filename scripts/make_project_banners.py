@@ -12,9 +12,7 @@ FONT_SIZE = 46.0
 
 projects = {
     "flurren": "Flurren",
-    "project-two": "Project Two",
-    "project-three": "Project Three",
-    "project-four": "Project Four",
+    "yoana": "Yoana",
 }
 
 
