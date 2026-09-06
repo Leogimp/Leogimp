@@ -31,6 +31,7 @@
 <hr />
 
 <!-- 4. Технический стек -->
+<div align="center">
 <h2>🛠 Tech Stack</h2>
 
 <h3>Languages</h3>
@@ -89,6 +90,8 @@
   <img src="https://img.shields.io/badge/Omarchy-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
+
+</div>
 
 <hr/>
 <div align="center">
