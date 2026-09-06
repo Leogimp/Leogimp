@@ -28,7 +28,7 @@
 
 <!-- 4. Технический стек -->
 <div align="center">
-<h2>⚙︎ Tech Stack</h2>
+<h3>⚙︎ Tech Stack</h3>
 
 <h3>Languages</h3>
 <p>
