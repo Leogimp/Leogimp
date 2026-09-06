@@ -1,5 +1,7 @@
 <!-- 3. Описание профиля -->
-<h1 align="center"><img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/logo.svg" height="40" alt="Flurren logo" />&nbsp;&nbsp;<b>Leo Gimpel</b></h1>
+<div align="center">
+  <h1><b>Leo Gimpel</b>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/logo.svg" height="40" alt="Flurren logo" /></h1>
+</div>
 
 <hr />
 
