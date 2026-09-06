@@ -1,19 +1,12 @@
 <div align="center">
 
-<!-- 1. Centered Circular Profile Image -->
-<svg width="130" height="130" viewBox="0 0 130 130">
-  <defs>
-    <clipPath id="circleView">
-      <circle cx="65" cy="65" r="65" />
-    </clipPath>
-  </defs>
-  <image href="https://github.com/Leogimp.png" width="130" height="130" clip-path="url(#circleView)" />
-</svg>
+<!-- 1. Centered Circular Profile Image (Guaranteed to render round on GitHub) -->
+<img src="https://wsrv.nl/?url=github.com/Leogimp.png&mask=circle" width="130" height="130" alt="Leogimp Avatar" />
 
 <br/><br/>
 
-<!-- 2. Contribution Graph (Black & White style) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leogimp&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+<!-- 2. Contribution Stats (Black & White style) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Leogimp&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&count_private=true" width="100%" alt="GitHub Stats" />
 
 <br/><br/>
 
