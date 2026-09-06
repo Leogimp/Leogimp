@@ -80,11 +80,7 @@
 
 <h3>GitHub Stats</h3>
 <p>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/ffffff/Leogimp" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/000000/Leogimp" />
-  <img src="https://ghchart.rshah.org/000000/Leogimp" alt="Contribution graph" />
-</picture>
+  <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/contributions.svg" alt="Contribution graph" />
 </p>
 
 <hr/>
