@@ -26,6 +26,8 @@
   <li>✦ <b>Collaborating:</b> Open to collaborate on any interesting project that I can bring value to</li>
 </ul>
 
+<hr />
+
 <!-- 4. Технический стек -->
 <div align="center">
 <h2>⚙︎ Tech Stack</h2>
