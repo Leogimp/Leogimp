@@ -1,12 +1,3 @@
-<div align="center">
-
-  <!-- 1. Аватар профиля -->
-  <img src="https://wsrv.nl/?url=github.com/Leogimp.png&mask=circle" width="130" height="130" alt="Leogimp Avatar" />
-
-  <br /><br />
-
-</div>
-
 <!-- 3. Описание профиля -->
 <h2>Founder of Flurren</h2>
 
