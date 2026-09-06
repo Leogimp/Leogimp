@@ -88,8 +88,6 @@
     <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
   </p>
 
-  <hr />
-
   <br />
 
   <!-- 6. Buy Me a Coffee -->
