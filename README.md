@@ -28,7 +28,7 @@
       <div align="center">
         <br />
         <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-flurren.svg?v=1" height="26" alt="Flurren" />
-        <p>Agentic AI mesh that plugs into the CLI tools you already use.</p>
+        <p>Agentic AI mesh of agents with real company approach .</p>
         <a href="https://www.linkedin.com/company/flurren-agent"><img src="https://img.shields.io/badge/VISIT%20%E2%86%92-ffffff?style=for-the-badge" alt="Visit Flurren" /></a>
         <br />
       </div>
