@@ -29,7 +29,7 @@
         <br />
         <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-flurren.svg?v=1" height="26" alt="Flurren" />
         <p>Agentic AI mesh that plugs into the CLI tools you already use.</p>
-        <a href="https://www.linkedin.com/company/flurren-agent"><img src="https://img.shields.io/badge/Visit%20%E2%86%92-000000?style=for-the-badge" alt="Visit Flurren" /></a>
+        <a href="https://www.linkedin.com/company/flurren-agent"><img src="https://img.shields.io/badge/VISIT%20%E2%86%92-ffffff?style=for-the-badge" alt="Visit Flurren" /></a>
         <br />
       </div>
     </td>
@@ -37,8 +37,8 @@
       <div align="center">
         <br />
         <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-yoana.svg?v=1" height="26" alt="Yoana" />
-        <p>An e-commerce website for a farm, built for browsing and ordering fresh produce online.</p>
-        <a href="https://meshek-yoana.com"><img src="https://img.shields.io/badge/Visit%20%E2%86%92-000000?style=for-the-badge" alt="Visit Yoana" /></a>
+        <p>An e-commerce website for a farm — order fresh produce online.</p>
+        <a href="https://meshek-yoana.com"><img src="https://img.shields.io/badge/VISIT%20%E2%86%92-ffffff?style=for-the-badge" alt="Visit Yoana" /></a>
         <br />
       </div>
     </td>
