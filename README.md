@@ -21,7 +21,9 @@
 <hr />
 
 <div align="center">
+  <br />
   <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/heading-projects.svg?v=1" height="33" alt="Projects" />
+  <br />
 </div>
 
 <table align="center">
