@@ -5,11 +5,6 @@
 
   <br /><br />
 
-  <!-- 2. График активности (Аутентичная тёмная сетка GitHub) -->
-  <img src="https://ghchart.rshah.org/Leogimp" width="100%" alt="Contribution Graph" />
-
-  <br /><br />
-
 </div>
 
 <!-- 3. Описание профиля -->
