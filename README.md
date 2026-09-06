@@ -37,7 +37,7 @@
       <div align="center">
         <br />
         <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/assets/project-yoana.svg?v=1" height="26" alt="Yoana" />
-        <p>E-commerce website for a farm with stock tracking.</p>
+        <p>E-commerce website for a farm with stock tracking system.</p>
         <a href="https://meshek-yoana.com"><img src="https://img.shields.io/badge/VISIT%20%E2%86%92-ffffff?style=for-the-badge" alt="Visit Yoana" /></a>
         <br />
       </div>
