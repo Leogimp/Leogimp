@@ -1,4 +1,10 @@
 <!-- 3. Описание профиля -->
+<p>
+  <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/contributions.svg" alt="Contribution graph" />
+</p>
+
+<hr />
+
 <h1><b>Leo Gimpel</b></h1>
 
 <p>
@@ -6,11 +12,6 @@
 
 <h3>Interested?</h3>
  <ul> <li>💼 Open positions at Flurren: <a href="https://www.linkedin.com/company/flurren-agent/jobs">LinkedIn</a></li></ul>
-</p>
-
-<hr />
-<p>
-  <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/contributions.svg" alt="Contribution graph" />
 </p>
 
 <hr />
