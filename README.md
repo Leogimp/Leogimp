@@ -1,33 +1,37 @@
 <div align="center">
 
-<!-- 1. Centered Circular Profile Image -->
-<img src="https://wsrv.nl/?url=github.com/Leogimp.png&mask=circle" width="130" height="130" alt="Leogimp Avatar" />
+  <!-- 1. Аватар профиля -->
+  <img src="https://wsrv.nl/?url=github.com/Leogimp.png&mask=circle" width="130" height="130" alt="Leogimp Avatar" />
 
-<br/><br/>
+  <br /><br />
 
-<!-- 2. Bulletproof Native Monochrome Contribution Graph (Never Breaks / 0% Downtime) -->
-<img src="https://ghchart.rshah.org/000000/Leogimp" width="100%" alt="Contribution Graph" />
+  <!-- 2. График активности (Монохром) -->
+  <img src="https://ghchart.rshah.org/000000/Leogimp#gh-dark-mode-only" width="100%" style="filter: invert(1) hue-rotate(180deg);" alt="Contribution Graph" />
 
-<br/><br/>
+  <br /><br />
 
 </div>
 
-<!-- 3. Description & Details -->
-## Founder of Flurren
+<!-- 3. Описание профиля -->
+<h2>Founder of Flurren</h2>
 
-I am a 16 y.o founder of a startup called **Flurren**. We are working on an agentic AI mesh integrable into majority of existing CLI tools. We are in the middle stages of development, and we are still searching for talented people to join our team.
+<p>
+  I am a 16 y.o founder of a startup called <b>Flurren</b>. We are working on an agentic AI mesh integrable into majority of existing CLI tools. We are in the middle stages of development, and we are still searching for talented people to join our team.
+</p>
 
-* 🌐 **Location:** Tel-Aviv
-* 🚀 **Founder:** [Flurren](https://github.com/Leogimp)
-* 🧠 **Learning:** LangChain
-* 🤝 **Collaborating:** Open to collaborate on any interesting project that I can add value to
+<ul>
+  <li>🌐 <b>Location:</b> Tel-Aviv</li>
+  <li>🚀 <b>Founder:</b> <a href="https://github.com/Leogimp">Flurren</a></li>
+  <li>🧠 <b>Learning:</b> LangChain</li>
+  <li>🤝 <b>Collaborating:</b> Open to collaborate on any interesting project that I can add value to</li>
+</ul>
 
----
+<hr />
 
-<!-- 4. Tech Stack / Skills (Categorized & Black/White) -->
-## 🛠 Tech Stack
+<!-- 4. Технический стек -->
+<h2>🛠 Tech Stack</h2>
 
-### Languages
+<h3>Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -38,7 +42,7 @@ I am a 16 y.o founder of a startup called **Flurren**. We are working on an agen
   <img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
-### Frontend
+<h3>Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -48,7 +52,7 @@ I am a 16 y.o founder of a startup called **Flurren**. We are working on an agen
   <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-### Backend & Databases
+<h3>Backend & Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -58,7 +62,7 @@ I am a 16 y.o founder of a startup called **Flurren**. We are working on an agen
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
-### Cloud, DevOps & Tools
+<h3>Cloud, DevOps & Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -71,22 +75,22 @@ I am a 16 y.o founder of a startup called **Flurren**. We are working on an agen
   <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
----
+<hr />
 
-<!-- 5. Socials -->
+<!-- 5. Социальные сети -->
 <div align="center">
 
-## Connect With Me
+  <h2>Connect With Me</h2>
 
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-</p>
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  </p>
 
-<br/>
+  <br />
 
-<!-- 6. Buy Me a Coffee -->
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" /></a>
+  <!-- 6. Buy Me a Coffee -->
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" /></a>
 
 </div>
