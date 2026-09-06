@@ -6,8 +6,7 @@
   <br /><br />
 
    <!-- 2. График активности (Тёмная сетка) -->
-  <img src="https://koyso.vercel.app/api/github-contributions?username=Leogimp&theme=dark" width="100%" alt="Contribution Graph" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Leogimp&show_icons=true&theme=dark&hide_border=true" width="100%" alt="Contribution Graph" />
 
   <br /><br />
 
