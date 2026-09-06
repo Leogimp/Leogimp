@@ -66,11 +66,8 @@
   <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
-<hr />
-
-<!-- 5. Социальные сети -->
+<hr/>
 <div align="center">
-
   <h2>Connect With Me</h2>
 
   <p>
