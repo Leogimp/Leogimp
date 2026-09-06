@@ -78,6 +78,12 @@
   <img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
+<h3>GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leogimp&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=Leogimp&hide_border=true&background=000000&stroke=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+</p>
+
 <hr/>
 <div align="center">
   <h3>Connect With Me</h3>
