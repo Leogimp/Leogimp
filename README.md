@@ -7,7 +7,7 @@
 <h3>Interested?</h3>
 Open possitions at Flurren: <a href="https://www.linkedin.com/company/flurren-agent/jobs">LinkedIn</a></li> 
 </p>
-
+---
 <ul>
   <li>🌐 <b>Location:</b> Tel-Aviv</li>
   <li>🧠 <b>Learning:</b> LangChain</li>
