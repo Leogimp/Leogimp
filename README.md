@@ -1,12 +1,18 @@
 <div align="center">
 
-<!-- 1. Centered Profile Image -->
-<img src="https://github.com/Leogimp.png" width="130" style="border-radius: 50%;" alt="Leogimp Avatar" />
+<!-- 1. Centered Circular Profile Image -->
+<svg width="130" height="130" viewBox="0 0 130 130">
+  <defs>
+    <clipPath id="circleView">
+      <circle cx="65" cy="65" r="65" />
+    </clipPath>
+  </defs>
+  <image href="https://github.com/Leogimp.png" width="130" height="130" clip-path="url(#circleView)" />
+</svg>
 
 <br/><br/>
 
 <!-- 2. Contribution Graph (Black & White style) -->
-<!-- Note: To include private contributions on GitHub, make sure "Include private contributions on my profile" is enabled in your GitHub Settings -> Profile settings -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leogimp&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 <br/><br/>
@@ -74,30 +80,20 @@ I am a 16 y.o founder of a startup called **Flurren**. We are working on an agen
 
 ---
 
-<!-- 5. Socials (3 Icons in 1 Row - Black/White) -->
+<!-- 5. Socials (No blue dashes between links) -->
 <div align="center">
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/YOUR_X_HANDLE">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 </p>
 
 <br/>
 
-<!-- 6. Buy Me a Coffee (Centered at the Bottom - Black/White) -->
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" />
-</a>
+<!-- 6. Buy Me a Coffee -->
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" /></a>
 
 </div>
