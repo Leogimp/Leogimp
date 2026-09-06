@@ -6,7 +6,7 @@
   <br /><br />
 
   <!-- 2. График активности (Аутентичная тёмная сетка GitHub) -->
-  <img src="https://ghchart.rshah.org/161b22/2ea043/Leogimp" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/Leogimp" width="100%" alt="Contribution Graph" />
 
   <br /><br />
 
