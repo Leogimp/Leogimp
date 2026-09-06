@@ -5,6 +5,9 @@
 
 <h1 align="center"><b>Leo Gimpel</b></h1>
 
+<br />
+<br />
+
 <p>
   <img src="https://raw.githubusercontent.com/Leogimp/Leogimp/main/contributions.svg" alt="Contribution graph" />
 </p>
