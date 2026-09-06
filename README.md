@@ -22,7 +22,7 @@
 
 <h2>▤ Projects</h2>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <div align="center">
